@@ -10,4 +10,4 @@ undergone by Dijkstra and A*(A star) Algorithm.
 **Black dots are as wall/break Point in image**
 
 ## Project Output Screenshots....
-![firstSS](https://drive.google.com/file/d/1DKE1o-DI1XQYZ0CwGC1S5wTwlRyPaKIY/view?usp=sharing)
+![firstSS](https://drive.google.com/file/d/1DKE1o-DI1XQYZ0CwGC1S5wTwlRyPaKIY/view)
